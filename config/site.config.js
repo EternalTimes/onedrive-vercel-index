@@ -46,13 +46,13 @@ module.exports = {
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
   // email: 'mailto:spencer.wushangbo@gmail.com',
-  email: ""
+  email: "",
 
   // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
   // you provide. See the documentation for details.
   links: [
-    {
+  {
       name: 'GitHub',
       link: 'https://github.com/spencerwooo/onedrive-vercel-index',
     },
